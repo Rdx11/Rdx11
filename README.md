@@ -1,8 +1,4 @@
-### Hi there, I'm Imam - aka [Rdx11][website] 👋
-
-## I'm a Backend Developer
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I like watching Anime
+### Hi there, I'm Imam - aka Rdx11👋
 
 ### Connect with me:
 
