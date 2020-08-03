@@ -36,11 +36,12 @@
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][webdevplaylist]
 [<img align="left" alt="terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-### Framework
-
 <br />
 <br />
 
+
+### Framework :
+[<img align="left" alt="terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
