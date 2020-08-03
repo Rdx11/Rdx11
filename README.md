@@ -1,3 +1,6 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=radical)
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
