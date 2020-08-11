@@ -2,18 +2,17 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&bg_color=30,43e97b,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rdx11&bg_color=30,43e97b,904e95&title_color=fff&text_color=fff)
-<hr>
-</br>
 
 ```
 Bro , don't rate the programmer from his github contributor.
 ```
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&bg_color=30,43e97b,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rdx11&bg_color=30,43e97b,904e95&title_color=fff&text_color=fff)
+
 <p align="center">
-  <strong><a href="https://www.edisonlee55.com" rel="nofollow">Official Website</a></strong> |
   <strong><a href="https://twitter.com/edisonlee55" rel="nofollow">Twitter</a></strong> |
   <strong><a href="https://discord.gg/nYXzaUS" rel="nofollow">Discord</a></strong> |
   <strong><a href="https://www.linkedin.com/in/edisonlee55" rel="nofollow">LinkedIn</a></strong> |
