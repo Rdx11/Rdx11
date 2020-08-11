@@ -12,8 +12,8 @@
 </br>
 </br>
 <p align="center">
-  <strong><a href="https://twitter.com/edisonlee55" rel="nofollow">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS" rel="nofollow">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/edisonlee55" rel="nofollow">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/edisonlee55" rel="nofollow">Twitch</a></strong>
+  <strong><p>Twitter</p></strong> |
+  <strong><p>Discord</p></strong> |
+  <strong><p>LinkedIn</p></strong> |
+  <strong><p>Twitch</p></strong>
 </p>
