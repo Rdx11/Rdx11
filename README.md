@@ -4,3 +4,4 @@
 ```
 Bro , don't rate the programmer from his github contributor.
 ```
+<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %> Hello from GitHub!</span>
