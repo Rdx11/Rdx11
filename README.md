@@ -6,5 +6,3 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
 
-asdasd
-asdasd
