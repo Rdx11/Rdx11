@@ -5,5 +5,3 @@
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rdx11&bg_color=30,21262d,21262d&title_color=fff&text_color=fff)-->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
 
-asd
-
