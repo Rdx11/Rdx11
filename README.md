@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=gruvbox) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://storage.googleapis.com/cclil/generated/overview.svg) -->
 <!-- ![](https://storage.googleapis.com/cclil/generated/languages.svg) -->
