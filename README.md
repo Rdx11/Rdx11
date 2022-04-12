@@ -27,11 +27,7 @@
 ![Apache 2](https://img.shields.io/badge/Apache_2-gray?style=for-the-badge&logo=apache)
 ![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
-
-<div align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/Rdx11/github-readme-stats)
- 
-</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
