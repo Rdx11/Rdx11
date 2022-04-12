@@ -3,7 +3,6 @@
 <div align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://storage.googleapis.com/cclil/generated/overview.svg) -->
 <!-- ![](https://storage.googleapis.com/cclil/generated/languages.svg) -->
 
@@ -28,5 +27,7 @@
 ![Apache 2](https://img.shields.io/badge/Apache_2-gray?style=for-the-badge&logo=apache)
 ![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
