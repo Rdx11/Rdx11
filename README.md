@@ -11,8 +11,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-gray?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-gray?style=for-the-badge&logo=dotnet)
 ![Laravel](https://img.shields.io/badge/Laravel-gray?style=for-the-badge&logo=laravel)
 ![Flask](https://img.shields.io/badge/Flask-gray?style=for-the-badge&logo=flask)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-gray?style=for-the-badge&logo=tailwind-css)
@@ -27,9 +25,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb)
 ![Apache 2](https://img.shields.io/badge/Apache_2-gray?style=for-the-badge&logo=apache)
 ![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=amazon-aws)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-gray?style=for-the-badge&logo=oracle)
-![GCP](https://img.shields.io/badge/GCP-gray?style=for-the-badge&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
