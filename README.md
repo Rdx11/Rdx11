@@ -28,6 +28,6 @@
 ![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/Rdx11/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/Rdx11/github-readme-stats) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
