@@ -31,5 +31,3 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/Rdx11/github-readme-stats) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
-
-asdasd
