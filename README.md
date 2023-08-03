@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://camo.githubusercontent.com/75dc1c8b7e5ab93cc6a6f22cdd58e8f8384245cc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width:100%;">Imam Ikhlasul Jihad</h1>
-![readmebox](https://github.com/Rdx11/Rdx11/assets/34431847/eef6c296-35df-4a7f-a7b4-0beaa9f9db68)
+https://github-production-user-asset-6210df.s3.amazonaws.com/34431847/258157434-eef6c296-35df-4a7f-a7b4-0beaa9f9db68.svg
 
 <div align="center">
  
