@@ -2,13 +2,7 @@
 
 ![readmebox](https://github.com/Rdx11/Rdx11/assets/34431847/14cb3291-ef7e-4519-bcb5-560339a9a9e4)
 
-<div align="center">
- 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=gruvbox) -->
-<!-- ![](https://storage.googleapis.com/cclil/generated/overview.svg) -->
-<!-- ![](https://storage.googleapis.com/cclil/generated/languages.svg) -->
-
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
 
 <h2 align="center">Skillset</h2>
 
@@ -29,7 +23,8 @@
 ![Apache 2](https://img.shields.io/badge/Apache_2-gray?style=for-the-badge&logo=apache)
 ![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
- 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/Rdx11/github-readme-stats) -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
+<h2 align="center">Github statistics</h2>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=gruvbox" alt="ariear" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/Rdx11/github-readme-stats" alt="ariear" /></p>
