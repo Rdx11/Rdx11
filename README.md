@@ -26,5 +26,11 @@
 
 <h2 align="center">Github statistics</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=gruvbox" alt="ariear" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=gruvbox)](https://github.com/Rdx11/github-readme-stats" alt="ariear" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rdx11&show_icons=true&theme=dracula" alt="ariear" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx11&layout=compact&theme=dracula)](https://github.com/Rdx11/github-readme-stats" alt="ariear" /></p>
+
+<br>
+<h2 align="center">Wakatime statistics</h2>
+
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rdx11&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
