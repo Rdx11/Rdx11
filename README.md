@@ -4,6 +4,8 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
 
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Rdx11&column=8&theme=dracula&no-frame=true"/>
+
 <h2 align="center">Skillset</h2>
 
 ![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php)
