@@ -34,5 +34,8 @@
 <br>
 <h2 align="center">Wakatime statistics</h2>
 
+<div align="center">
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rdx11&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
