@@ -36,6 +36,6 @@
 
 <div align="center">
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Rdx11/e33343af-f94d-4ba1-80af-79eb26dd9a28.png" /></a>
+<img src="https://wakatime.com/share/@Rdx11/e33343af-f94d-4ba1-80af-79eb26dd9a28.png" />
   
 </div>
