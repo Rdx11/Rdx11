@@ -36,6 +36,6 @@
 
 <div align="center">
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rdx11&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Rdx11/e33343af-f94d-4ba1-80af-79eb26dd9a28.png" /></a>
   
 </div>
