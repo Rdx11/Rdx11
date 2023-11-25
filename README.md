@@ -6,7 +6,7 @@
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Rdx11&column=8&theme=dracula&no-frame=true"/>
 
-<h2 align="center">Skill Set</h2>
+<h2 align="center">Skill Se</h2>
 
 ![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
