@@ -4,10 +4,6 @@
 
   Bio
 </h1>
-
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="width: 48%;">
     
   ```typescript
   const bio = {
@@ -24,15 +20,6 @@
     "backend/frontend?" : "Can both when it generates a lot of money :)"
   };
   ```
-  </div>
-
-  <div style="width: 48%;">
-  
-  ![very-cat-cat-eat](https://github.com/Rdx11/Rdx11/assets/34431847/e44c1729-e1fe-41a5-bd9d-63dbc25be6ef)
-  </div>
-
-</div>
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
 
