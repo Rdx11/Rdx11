@@ -1,4 +1,3 @@
-
 <h1 align="center">
   
   ![very-cat-cat-eat](https://github.com/Rdx11/Rdx11/assets/34431847/e44c1729-e1fe-41a5-bd9d-63dbc25be6ef)
@@ -6,31 +5,38 @@
   Bio
 </h1>
 
-![Screenshot 2024-01-18 182041](https://github.com/Rdx11/Rdx11/assets/34431847/0b67eaa6-399e-47fd-84e9-f762d13148c7)
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 48%;">
+    
+  ```typescript
+  const bio = {
+    "name" : "Imam Ikhlasul Jihad",
+    "email" : "imam.ikhlasul@gmail.com",
+    "pronouns" : "of course he | him",
+    "code" : [
+        "Javascript",
+        "Typescript",
+        "PHP",
+        "Golang"
+    ],
+    "hobbies" : "Staring blankly at the laptop screen",
+    "backend/frontend?" : "Can both when it generates a lot of money :)"
+  };
+  ```
+  </div>
+
+  <div style="width: 48%;">
+  
+  ![very-cat-cat-eat](https://github.com/Rdx11/Rdx11/assets/34431847/e44c1729-e1fe-41a5-bd9d-63dbc25be6ef)
+  </div>
+
+</div>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
 
 
-<h2 align="center">Skill Set</h2>
-
-![PHP](https://img.shields.io/badge/PHP-gray?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
-![Laravel](https://img.shields.io/badge/Laravel-gray?style=for-the-badge&logo=laravel)
-![Flask](https://img.shields.io/badge/Flask-gray?style=for-the-badge&logo=flask)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-gray?style=for-the-badge&logo=tailwind-css)
-![SASS](https://img.shields.io/badge/SASS-gray?style=for-the-badge&logo=sass)
-![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=css3)
-![JQuery](https://img.shields.io/badge/JQuery-gray?style=for-the-badge&logo=jquery)
-![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash)
-![Powershell](https://img.shields.io/badge/Powershell-gray?style=for-the-badge&logo=powershell)
-![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-gray?style=for-the-badge&logo=microsoft-sql-server)
-![MongoDB](https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb)
-![Apache 2](https://img.shields.io/badge/Apache_2-gray?style=for-the-badge&logo=apache)
-![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
 
 <h2 align="center">Github statistics</h2>
 
