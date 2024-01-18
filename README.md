@@ -2,13 +2,12 @@
 <h1 align="center">
   
   ![very-cat-cat-eat](https://github.com/Rdx11/Rdx11/assets/34431847/e44c1729-e1fe-41a5-bd9d-63dbc25be6ef)
-  
+
+  Bio
 </h1>
 
 ![Screenshot 2024-01-18 182041](https://github.com/Rdx11/Rdx11/assets/34431847/0b67eaa6-399e-47fd-84e9-f762d13148c7)
 
-
-![readmebox (1)](https://github.com/Rdx11/Rdx11/assets/34431847/a4ad0e76-297d-4387-9322-09d83c233689)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rdx11.Rdx11)
 
