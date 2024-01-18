@@ -1,8 +1,6 @@
 <h1 align="center">
   
   ![very-cat-cat-eat](https://github.com/Rdx11/Rdx11/assets/34431847/e44c1729-e1fe-41a5-bd9d-63dbc25be6ef)
-
-  Bio
 </h1>
     
   ```typescript
