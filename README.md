@@ -38,3 +38,7 @@
 <img src="https://wakatime.com/share/@Rdx11/e33343af-f94d-4ba1-80af-79eb26dd9a28.png" />
   
 </div>
+
+<h2 align="center">Holopin Badges</h2>
+
+[![An image of @rdx11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rdx11)](https://holopin.io/@rdx11)
